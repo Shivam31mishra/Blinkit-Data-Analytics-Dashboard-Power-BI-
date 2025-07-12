@@ -58,6 +58,6 @@ The insights from this project can help Blinkit:
 
 ## 📸 Dashboard Preview
 
-> *(https://github.com/Shivam31mishra/Blinkit-Data-Analytics-Dashboard-Power-BI-/blob/main/Dashboard%20Preview.pdf)*
+> *https://github.com/Shivam31mishra/Blinkit-Data-Analytics-Dashboard-Power-BI-/blob/main/Dashboard%20Preview.pdf*
 
 ---
